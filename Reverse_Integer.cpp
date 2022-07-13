@@ -1,4 +1,4 @@
-// Having two cases: normal cas and exception case
+// Having two cases: normal case and exception case
 
 class Solution {
 public:
