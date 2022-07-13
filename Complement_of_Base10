@@ -9,7 +9,9 @@ public:
             return 1;
         
         while(temp != 0){
+            //creating mask
             mask = (mask << 1) | 1;
+            // right shift to find number of 1 to be added
             temp = temp >> 1;
         }
         
